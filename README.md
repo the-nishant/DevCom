@@ -1,6 +1,6 @@
 # DevCom
-Solution of Assignment
 
-I have not yet completed it. I will upload more material after 15 March, as I am busy with apping. 
+Django Blog contains the Phase 2 Selection assignment.
 
-Completed Android Assignment- except last two bonus questions, which I would do shortly. 20 March, 2020
+
+
