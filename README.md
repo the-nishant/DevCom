@@ -7,6 +7,7 @@ There was some error while uploading the whole folder.
 
 Updated AndroidStudioChat.zip
 
-Chats added. Some minor bug fixes and delete chats would be added soon, along with notifications and sending files.
+Chats added. Notifications added for requests and bugs fixed.
+delete chats would be added soon, along with sending files.
 
 
